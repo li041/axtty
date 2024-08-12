@@ -1,0 +1,8 @@
+[package]
+name = "tty"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+index_list = "0.2.13"
+spinlock = { git = "https://github.com/Starry-OS/spinlock"}
